@@ -1,11 +1,11 @@
 <ul>
 	<li>
-		<a href="?p=home">Home</a>
+		<a href="index.php?p=home">Home</a>
 	</li>
 	<li>
-		<a href="?p=contact">Contact</a>
+		<a href="index.php?p=contact">Contact</a>
 	</li>
 	<li>
-		<a href="?p=images">Images</a>
+		<a href="index.php?p=images">Images</a>
 	</li>
 </ul>
